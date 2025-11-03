@@ -1,2 +1,3 @@
-<img width="1920" height="1080" alt="Captura de tela 2025-11-03 104616" src="https://github.com/user-attachments/assets/31baeea9-d495-408f-8398-05716f83545d" />
+<img width="1280" height="640" alt="webcorvus-github-social-preview" src="https://github.com/user-attachments/assets/acdc5ec7-5451-430c-a1e6-8607eced7cfb" />
+
 An organization that provides simple and beutiful apps with general porpose, like school secretaries and template for MaterialUI.
